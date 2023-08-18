@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": ""
+    },
+    {
+      "id": 2,
+      "name": "rahul",
+      "email": "aaa@gmail.com",
+      "mobile": 787887677,
+      "city": "hanumakonda"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "email": null,
+      "mobile": null,
+      "city": null
+    }
+  ],
+  "signup": [
+    {
+      "name": "rahul",
+      "email": "aaa@gmail.com",
+      "mobile": 888888888,
+      "password": "pppppppppppp",
+      "id": 1
+    },
+    {
+      "name": "Manideep ",
+      "email": "manideep@gmail.com",
+      "mobile": 788788715,
+      "password": "Pogula@123",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
